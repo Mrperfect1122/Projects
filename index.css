@@ -1,0 +1,38 @@
+body{
+    background-image: url(./bg1.webp);
+    width: auto;
+    height: auto;
+}
+
+#f{
+    margin-left: 100px;
+    margin-top: 300px;
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    /* text-decoration: chartreuse; */
+    color: #1285e8;
+}
+
+#s{
+    margin-left: 100px;
+    margin-top: auto;
+    /* margin-top: 300px; */
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #fd3d07;
+}
+
+#t{
+    margin-left: 100px;
+    margin-top: auto;
+    /* margin-top: 300px; */
+    font-size: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    text-transform: uppercase;
+    text-decoration: underline;
+    color: #d42e60;
+}
